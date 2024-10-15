@@ -3,6 +3,4 @@ import "@popperjs/core";
 import "bootstrap";
 import "jquery";
 
-$(document).ready(function() {
-  console.log("jquery work");
-})
+import "components"

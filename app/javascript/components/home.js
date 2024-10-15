@@ -1,3 +1,3 @@
 $(document).ready(function() {
-  console.log("index loaded");
+  console.log("home page");
 })
